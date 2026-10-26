@@ -1,0 +1,53 @@
+# Grok comparative critique: Why has Australian housing supply failed and what drove prices and rents 2019-26?
+
+*Generated 20261026-2125 via Grok Build CLI with web + X search. Untrusted: another model's reading of the internet; verify before use.*
+
+I'll test the model's load-bearing numbers against primary ABS, RBA, Treasury and NHSAC sources, and against a spread of recent argument on X.Primary series are lining up on completions, rents and the Accord date. Next I’ll check the contested drivers — rates, tax, insolvencies — and the argument on X.The story is right and the percentage shares are not. Cheap credit, smaller households and then migration were capitalised into land because completions never returned to the late-2010s peak. Zoning is why quantity did not move. It is not a second slice of the rise that can be added to rates and population.
+
+## 1. The debate on X
+
+No PBO, e61 or HIA posts turned up. Cameron Murray’s recent posts were workshop ads. Peter Tulip’s 24 October post is the reply to that camp.
+
+- **Peter Tulip** (@peter_tulip, CIS), 24 Oct 2026: a variance split can call zoning minor while the policy question is still “relax zoning.” https://x.com/peter_tulip/status/2113896038985838673 — Fair as method. His own RBA paper says the wedge is not the price fall from abolishing zoning. https://www.rba.gov.au/publications/rdp/2018/2018-03/introduction.html
+- **CIS** (@CISOZ), 25 Oct 2026: the goal is 1980s–90s affordability, not 2024–25 prices. https://x.com/CISOZ/status/2114485420109320362 — Consistent with a level wedge that predates 2019.
+- **Brendan Coates** (Grattan), 13 Nov 2025: halving the capital-gains discount and curbing negative gearing cuts prices about 1–2%. https://x.com/BrendanCoates/status/1988875292732018891 — Matches Grattan’s package estimate. https://www.aph.gov.au/DocumentStore.ashx?id=1ad5461a-36e1-43b5-ad32-16485c2145c3&subId=781210 It is not a forecast of the larger 2026 law.
+- **Coates**, same day: less migration makes housing somewhat cheaper and Australians poorer. https://x.com/BrendanCoates/status/1988887488824307935 — Size is contested. Net overseas migration did fall from 556,000 (year to Sep 2023) to 311,000 (year to Sep 2025). https://population.gov.au/sites/population.gov.au/files/2026-03/nst-population-sep-2025.pdf
+- **Matt Grudnoff** (Australia Institute), 14 Oct 2026: the 1999 discount “greatly” caused housing inequality, and Labor’s changes have brought prices down. https://x.com/TheAusInstitute/status/2110205498700300612 — “Greatly” fights Grattan’s ~1%. Tulip (3 Aug 2026) says prices were cooling before the Budget. https://x.com/peter_tulip/status/2084404326517400029
+- **Barbara Pocock** (Greens), 15 Oct 2026: reverse a “massive crash” in public housing. https://x.com/TheAusInstitute/status/2110557161894085058 — Public stock fell 1,143 in 2024–25 (297,684 to 296,541). The long fall is mostly transfers to community providers, which also fell 392 that year. https://pp.aihw.gov.au/reports/housing-assistance/housing-assistance-in-australia-2026/contents/social-housing-dwellings
+- **Anthony Albanese**, 13 May 2026: negative gearing and capital-gains changes give first-home buyers a fair go, and the Housing Australia Future Fund is working. https://x.com/AlboMP/status/2054414599567618414 — The fund had delivered 1,432 of 40,000 homes by May 2026. https://www.sbs.com.au/news/article/two-years-government-social-housing-push-report-well-behind/nlomkmlcv
+- **Angus Taylor**, 7 Oct 2026: migration is the pressure; cut it to 100,000. https://x.com/AngusTaylorMP/status/2107971555259257217 — The surge was real. “Hundreds of thousands still out of control” is stale: year-to-Dec-2025 migration was 300,960, and permanent/long-term arrivals overstate that by 60%. https://www.abs.gov.au/articles/use-net-overseas-migration-statistics-understand-overseas-migration-not-overseas-arrivals-and-departures
+- **Tim Wilson**, 23 Oct 2026: the “collapse” is Chalmers’ tax and spending, via rates. https://x.com/TimWilsonMP/status/2113526149846356439 — The fall is real: Cotality has values 5.2% under the March 2026 peak. https://www.propertybuzz.com.au/daily-brief/property-brief-1-October-2026 The split between tax and the cash rate, now 4.60%, is not identified. https://x.com/RBAInfo/status/2104791647082995913
+- **Daniel Wild** (IPA), 15 Oct 2026: mass migration failed to lift living standards. https://x.com/TheIPA/status/2110860982310318311 — Commentary, and IPA’s arrivals series is the one the ABS rejects.
+- **RBA**, 29 Sep 2026: cash rate to 4.60%. Primary. Same link.
+
+## 2. Agree / disagree
+
+**Completions.** Agree they stayed far below the Accord’s 240,000 a year and below the 2018 private peak of about 215,000. https://buildstreet.com.au/new-houses The National Housing Supply and Affordability Council counts 308,000 gross completions from the June quarter 2024 to the March quarter 2026 and has moved 1.2 million from September to December 2030. https://nhsac.gov.au/reports-and-submissions/quarterly-report-august-2026 Approvals were about 196,000 in 2025. “Cannot respond” describes completions, not the pipeline.
+
+**Productivity.** Agree with the Productivity Commission: homes per hour roughly halved since the mid-1990s; quality-adjusted value added per hour fell 12% while the economy rose 49%. https://apo.org.au/node/329712 The −53% is the unadjusted series the preamble already discounts.
+
+**Zoning.** The 2016 Sydney figure is right: $1.16 million versus a $671,000 supply cost, wedge $489,000. https://www.rba.gov.au/publications/rdp/2018/2018-03/introduction.html Assigning 20–30% of the 2019–26 rise to it is not. Grattan’s published reform result is about 12% lower prices and rents within a decade. https://grattan.edu.au/news/how-planning-stops-more-housing-and-how-to-fix-it/ The −7% at five years was not in the summaries checked.
+
+**Taxes on a new Sydney house.** The stack is real: Centre for International Economics for the Housing Industry Association, $576,000, 49% of a $1.182 million greenfield package, up $160,000 since 2019. https://www.realestate.com.au/news/half-cost-of-new-sydney-home-now-taxes-red-tape/ Industry-commissioned. GST and income tax are in the pile, and much of a charge cuts the land residual. The findings’ caveat is better than the headline.
+
+**Feasibility.** Agree, and it improved. NSW estimates: mid-rise $666,000 (2018), $905,000 (2023), $1.049 million (2025), average gap now +5%, still mainly east of Parramatta. https://www.nsw.gov.au/sites/default/files/noindex/2026-07/nsw-pec-cie-final-report-cost-and-feasibility-of-new-residential-dwellings-in-nsw.pdf
+
+**Insolvencies.** The counts match and the denominator is too wide: construction administrations 2,977, then 3,596, then about 3,435–3,472. Residential building was 819, then 712. https://buildstreet.com.au/builder-insolvencies The 3,325 / 44% NSW Council figure was not re-found.
+
+**Defects.** Do not use 97%. The Building Commission’s own surveys put serious defects at 53% of strata buildings in 2023 and again in 2025, lower in newer stock. https://www.nsw.gov.au/departments-and-agencies/building-commission/news/survey-shows-serious-defects-down-newer-apartment-buildings
+
+**Demand.** The three big facts hold. Household size went from 2.55 to 2.48 by August 2022, roughly 120,000 extra households on the RBA’s own rough sum. https://www.rba.gov.au/publications/bulletin/2023/mar/a-new-measure-of-average-household-size.html The Term Funding Facility was $188 billion, about 6% of credit. https://www.rba.gov.au/mkt-operations/term-funding-facility/use-of-the-tff.html Investor loans were 57,624 of 141,470 commitments in the September quarter 2025 ($39.8 billion of $98.0 billion). https://www.abs.gov.au/statistics/economy/finance/lending-indicators/sep-quarter-2025 Calendar-2021 values rose 22.1%, not 22.4%. https://www.brokerdaily.au/technology/16383-housing-values-grew-22-1-in-2021 Saunders and Tulip do say low rates explain much of the earlier rise. https://www.rba.gov.au/publications/rdp/2019/2019-01/full.html The ≈28% per permanent real-rate point was not in the text retrieved, and a temporary cash-rate cycle is not that experiment. Negative gearing and the capital-gains discount as about 1% of the price level, and little of the 2019–26 change, is the right historical claim.
+
+**Rents and the ratio.** Cotality: rents +40.6% in the five years to June 2026. https://www.mpamag.com/au/news/general/rents-hit-fresh-highs-as-vacancy-stays-tight/581678 Value-to-income 8.2 in September 2025 against a 6.8 twenty-year average. https://discover.cotality.com/hubfs/Article-Reports/2511-Cotality-Housing-Affordability-Report-November-FINAL.pdf The Council’s rent share is 33.1% of income. https://nhsac.gov.au/news/state-housing-system-2026 By September 2026 vacancy was 2.1% and quarterly rent growth 0.5%. Cotality’s pre-COVID decade average is 3.3%, not 2.4%. https://www.cotality.com/au/insights/articles/rental-growth-loses-momentum-as-vacancy-rates-rise
+
+## 3. Missed since mid-2026
+
+The 12 May Budget, passed 25 June, replaces the 50% discount from 1 July 2027 with indexation and a 30% minimum (new homes may keep the discount) and quarantines negative gearing on established homes bought after Budget night. https://www.reuters.com/world/asia-pacific/australia-unveils-changes-negative-gearing-capital-gains-tax-2026-05-12/ Before the Middle East conflict the Council expected about 980,000 Accord homes, with cost scenarios 10,000–33,000 lower. https://nhsac.gov.au/news/state-housing-system-2026 The Productivity Commission’s July 2026 interim report puts land-use controls first. https://www.pc.gov.au/inquiries-and-research/housing-supply/interim
+
+## 4. Weak points
+
+The share table is a judgement that adds one mechanism three times. Rates, population and zoning are demand against an inelastic supply curve. The 97% defect rate, the all-construction insolvency count, and the 49% tax stack are the wrong objects for the claims hung on them. “Supply cannot respond” skips rising approvals and a Sydney mid-rise gap that turned positive on average.
+
+## 5. Verdict
+
+From 2019 to early 2026, prices and rents were mostly demand — credit and household fission, then migration — bid into scarce well-located land. Planning and construction cost are why completions did not answer. Investor tax rules and foreign buyers explain little of that rise. Since May 2026 demand has turned, values are down about 5% from the peak, the price effect of the tax law is still disputed, and the Accord and the housing fund remain far short. Confidence is high on that narrative and low on any percentage split.

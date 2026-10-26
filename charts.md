@@ -1,0 +1,23 @@
+# Charts
+
+- 01_receipts_payments.png: https://raw.githubusercontent.com/jspaterson000/auseconomy-facts/main/figures/01_receipts_payments.png
+- 02_underlying_cash_balance.png: https://raw.githubusercontent.com/jspaterson000/auseconomy-facts/main/figures/02_underlying_cash_balance.png
+- 03_where_money_goes.png: https://raw.githubusercontent.com/jspaterson000/auseconomy-facts/main/figures/03_where_money_goes.png
+- 04_growth_decomposition.png: https://raw.githubusercontent.com/jspaterson000/auseconomy-facts/main/figures/04_growth_decomposition.png
+- 05_forecast_vintages.png: https://raw.githubusercontent.com/jspaterson000/auseconomy-facts/main/figures/05_forecast_vintages.png
+- 06_tax_mix.png: https://raw.githubusercontent.com/jspaterson000/auseconomy-facts/main/figures/06_tax_mix.png
+- 07_tax_expenditures.png: https://raw.githubusercontent.com/jspaterson000/auseconomy-facts/main/figures/07_tax_expenditures.png
+- 08_scenario_menu.png: https://raw.githubusercontent.com/jspaterson000/auseconomy-facts/main/figures/08_scenario_menu.png
+- 09_inflation_wages.png: https://raw.githubusercontent.com/jspaterson000/auseconomy-facts/main/figures/09_inflation_wages.png
+- 10_real_wages.png: https://raw.githubusercontent.com/jspaterson000/auseconomy-facts/main/figures/10_real_wages.png
+- 11_public_demand_share.png: https://raw.githubusercontent.com/jspaterson000/auseconomy-facts/main/figures/11_public_demand_share.png
+- 12_local_projections.png: https://raw.githubusercontent.com/jspaterson000/auseconomy-facts/main/figures/12_local_projections.png
+- 13_inflation_drivers.png: https://raw.githubusercontent.com/jspaterson000/auseconomy-facts/main/figures/13_inflation_drivers.png
+- A1_living_costs.png: https://raw.githubusercontent.com/jspaterson000/auseconomy-facts/main/figures/A1_living_costs.png
+- A2_real_income_pc.png: https://raw.githubusercontent.com/jspaterson000/auseconomy-facts/main/figures/A2_real_income_pc.png
+- A3_price_to_earnings.png: https://raw.githubusercontent.com/jspaterson000/auseconomy-facts/main/figures/A3_price_to_earnings.png
+- A4_accord.png: https://raw.githubusercontent.com/jspaterson000/auseconomy-facts/main/figures/A4_accord.png
+- A5_nom_vintages.png: https://raw.githubusercontent.com/jspaterson000/auseconomy-facts/main/figures/A5_nom_vintages.png
+- A6_disability_vintages.png: https://raw.githubusercontent.com/jspaterson000/auseconomy-facts/main/figures/A6_disability_vintages.png
+- A7_bracket_creep_deciles.png: https://raw.githubusercontent.com/jspaterson000/auseconomy-facts/main/figures/A7_bracket_creep_deciles.png
+- A8_longrun_levers.png: https://raw.githubusercontent.com/jspaterson000/auseconomy-facts/main/figures/A8_longrun_levers.png
