@@ -1,4 +1,4 @@
-# Live indicator snapshot (auseconomy model, 2026-10-26)
+# Live indicator snapshot (auseconomy model, 2026-10-27)
 
 **Is the everyday Australian better off?**
 
@@ -18,7 +18,7 @@
 | Headline CPI | 3.9 | % y/y | 2026-06 | 1.8 | 2.4 | 82 | mixed |  |
 | Underlying inflation (trimmed mean) | 3.6 | % y/y | 2026-06 | 1.0 | 2.1 | 84 | rising |  |
 | Rents (CPI) | 3.5 | % y/y | 2026-06 | -1.0 | 3.2 | 68 | mixed |  |
-| Cash rate | 4.3 | % | 2026-06 | 0.3 | 3.1 | 41 | mixed |  |
+| Cash rate target | 4.6 | % | 2026-10 | 1.0 | 3.4 | 94 | rising |  |
 | Real cash rate | 0.6 | % | 2026-06 | -0.7 | 1.0 | 35 | mixed |  |
 | Consumer inflation expectations (1y) | 5.5 | % | 2026-06 | 0.5 |  | 89 | rising |  |
 
@@ -61,7 +61,7 @@
 | Underlying cash balance | -0.8 | % of GDP | 2025-26 | -0.4 | -0.7 | 49 | falling | -0.7 (2029-30) |
 | Payments | 26.8 | % of GDP | 2025-26 | 0.7 | 2.4 | 92 | rising | 26.6 (2029-30) |
 | Tax receipts | 24.0 | % of GDP | 2025-26 | 0.3 | 1.1 | 92 | rising | 23.8 (2029-30) |
-| Net debt | 19.2 | % of GDP | 2024-25 | 0.8 | 0.1 | 89 | mixed | 22.2 (2029-30) |
+| Net debt | 18.8 | % of GDP | 2025-26 | -0.4 | -0.3 | 81 | mixed | 22.2 (2029-30) |
 | Net interest payments | 0.6 | % of GDP | 2025-26 | 0.1 | -0.2 | 35 | mixed | 0.9 (2029-30) |
 | Commonwealth fiscal impulse | 0.5 | pp of GDP | 2026-06 | -0.6 | 0.7 | 67 | falling |  |
 | Average personal tax rate (tax / employee income) | 26.1 | % | 2023-24 | 0.9 | 1.8 | 96 | rising | 25.5 (2029-30) |
